@@ -26,7 +26,8 @@
 ・Input System
 
 ■ゲーム制作経験
-Unityを使用した2D・3Dゲーム制作
+・Visual Studioを使用した2Dゲーム制作
+・Unityを使用した3Dゲーム制作
 
 ■担当
 ゲームプログラム全般
