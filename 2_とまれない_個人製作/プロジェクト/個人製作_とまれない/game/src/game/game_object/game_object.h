@@ -1,0 +1,6 @@
+#include"block_manager/block_manager.h"
+#include"item_object_manager/item_object_manager.h"
+#include"stage_gimmick_manager/stage_gimmick_manager.h"
+#include"game_object_id.h"
+#include"character_manager/character_manager.h"
+#include"stage_manager/stage_manager.h"

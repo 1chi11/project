@@ -1,0 +1,41 @@
+
+{
+    "file" : "data\\player_.png",
+
+    "frame" : {
+        "width"  : 280,
+        "height" : 207,
+        "cols"   : 7,
+        "rows"   : 11
+    },
+
+    "animations" : 
+	{
+        "stop_animation" : {
+            "frames"    : [0,1,2,3],
+            "interval"  : 0.075,
+            "loop"      : true
+        },
+        "run_animation" : {
+            "frames"    : [8,9,10,11,12,13],
+            "interval"  : 0.075,
+            "loop"      : true
+		},
+        "jump_animation" : {
+            "frames"    : [15,16,17],
+            "interval"  : 0.075,
+            "loop"      : false
+		},
+        "fall_animation" : {
+            "frames"    : [18,19,20,21],
+            "interval"  : 0.075,
+            "loop"      : true
+		},
+        "tired_animation" : {
+            "frames"    : [64,65,66],
+            "interval"  : 0.075,
+            "loop"      : true
+	}
+
+    }
+}

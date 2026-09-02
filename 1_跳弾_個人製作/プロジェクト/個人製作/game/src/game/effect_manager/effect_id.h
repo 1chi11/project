@@ -1,0 +1,7 @@
+#pragma once
+enum class EFFECT_ID
+{
+	ENEMY_HIT_EFFECT,
+	WALL_HIT_EFFECT,
+	SHOT_CURSOR_EFFECT
+};

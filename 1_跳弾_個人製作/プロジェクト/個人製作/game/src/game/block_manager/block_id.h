@@ -1,0 +1,7 @@
+#pragma once
+enum class BLOCK_ID
+{
+	NOMAL_BLOCK,
+	NOMAL_FELIX_BLOCK,
+	MOVE_FELIX_BLOCK
+};
